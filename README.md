@@ -1,0 +1,2 @@
+# ZRouerModularizationDemo
+app组件化demo，结合了路由框架实现组件通信
